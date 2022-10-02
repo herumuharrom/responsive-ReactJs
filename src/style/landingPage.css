@@ -1,0 +1,43 @@
+.myBG{
+    height: 90vh;
+    background: url('../assets/images/bg/bg-01.jpg');
+    background-size: cover;
+}    
+.intro{
+    height: 800px;
+    display: flex;
+    justify-content: 10px;
+    align-items: 50px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: larger;
+}
+.title {
+    font-size: 3rem;
+    font-weight: 900;
+    line-height: 100px;
+    text-shadow: 2px 2px rgb(0, 12, 15);
+    letter-spacing: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.Trending {
+    height: 80vh;
+    background: url('../assets/images/bg/tren.jpg');
+    background-size: cover;
+}
+.movieImage{
+    width: 300px;
+    height: 500px;
+    margin: 20px;
+    padding: 10px;
+    object-position: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Indonesia {
+    height: 80vh;
+    background: url('../assets/images/bg/bg2.jpg');
+    background-size: cover;
+}
